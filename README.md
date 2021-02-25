@@ -1,6 +1,22 @@
 # Python-Cheatsheet
 Source Coursera - Google IT Automation with Python 
 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Link">Link</a></li>
+    <li>
+    <a href="#Dictionary">Dictionary</a>
+    <ul>
+        <li><a href="#True or False">True or False</a></li>
+        <li><a href="#Add and Replace">Add and Replace</a></li>
+        <li><a href="#Delete">Delete</a></li>
+      
+    </ul>
+    </li>
+    <li><a href="#EC2 Instance">EC2 Instance</a></li>
+  </ol>
+</details>
 
 ### Dictionary:
 ```
