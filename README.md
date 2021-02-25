@@ -6,10 +6,23 @@ Source Coursera - Google IT Automation with Python
 ```
 file_counts= {"JPG":10,"txt:14,"csv":2}
 ```
-True or False
+#### True or False
+```
+"txt" in file_counts
+```
+True
+
+#### Add and Replace
 ```
 file_counts["cfg"]=8
-```
-result: print(file_counts)
+file_counts["csv"]=33
 
-  {"JPG":10,"txt:14,"csv":2,"cfg":8}
+```
+{"JPG":10,"txt:14,"csv":33,"cfg":8}
+
+#### Delete
+```
+del file_counts["cfg"] 
+
+```
+{"JPG":10,"txt:14,"csv":33}
