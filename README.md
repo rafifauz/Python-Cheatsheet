@@ -18,6 +18,8 @@ Source Coursera - Google IT Automation with Python
 </details>
 
 ### Dictionary:
+<details>
+  <summary>Click to expand!</summary>
 ```
 file_counts= {"JPG":10,"txt:14,"csv":2}
 ```
@@ -41,3 +43,8 @@ del file_counts["cfg"]
 
 ```
 {"JPG":10,"txt:14,"csv":33}
+
+#### For
+```
+
+<details>
