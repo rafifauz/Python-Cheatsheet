@@ -24,10 +24,10 @@ Source Coursera - Google IT Automation with Python
   </ol>
 </details>
 
-### Dictionary:
+
 <details>
-  <summary>file_counts= {"JPG":10,"txt":14,"csv":2}</summary>
-  
+  <summary><h3>Dictionary:</h3></summary>
+file_counts= {"JPG":10,"txt":14,"csv":2}
 #### True or False
 ```
 "txt" in file_counts
@@ -71,10 +71,10 @@ file_counts.values()
 dict_values(10,14,33)
 </details>
 
-### OOP:
+
 
 <details>
-<summary>V</summary>
+	<summary><h3>OOP:</h3></summary>
   
 #### Class
 ```
