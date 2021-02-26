@@ -62,7 +62,7 @@ dict_keys("JPG","txt","csv")
 file_counts.values()
 ```
 dict_values(10,14,33)
-<details>
+</details>
 
 ### OOP:
 
@@ -97,7 +97,7 @@ class Person:
         # Should return "hi, my name is " followed by the name of the Person.
         return ___
 ```
-
+</details>
 
 
 
