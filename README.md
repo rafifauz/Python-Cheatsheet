@@ -92,7 +92,9 @@ print("violets are {},".format(violet.color))
 print(Flower().color)
 ```
 Roses are red,
+
 violets are blue,
+
 unknown
 
 #### Constructor
@@ -123,6 +125,7 @@ help(Person.greeting)
 Help on function greeting in module submission:
 
 greeting(self)
+
     Outputs a message with the name of the person
 
 
