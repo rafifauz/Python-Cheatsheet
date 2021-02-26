@@ -14,6 +14,13 @@ Source Coursera - Google IT Automation with Python
         <li><a href="#Delete">Delete</a></li>
     </ul>
     </li>
+        <li>
+    <a href="#OOP">Dictionary</a>
+    <ul>
+        <li><a href="#Class">Class</a></li>
+        <li><a href="#AConstructor">Constructor</a></li>
+    </ul>
+    </li>
   </ol>
 </details>
 
