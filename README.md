@@ -15,7 +15,7 @@ Source Coursera - Google IT Automation with Python
     </ul>
     </li>
         <li>
-    <a href="#OOP">Dictionary</a>
+    <a href="#OOP">OOP</a>
     <ul>
         <li><a href="#Class">Class</a></li>
         <li><a href="#Constructor">Constructor</a></li>
@@ -97,13 +97,37 @@ unknown
 
 #### Constructor
 ```  
-class Person:
-    def __init__(self, name):
-        self.name = ___
-    def greeting(self):
-        # Should return "hi, my name is " followed by the name of the Person.
-        return ___
+class Apple:
+    def __init__(self, color,flavor):
+        self.color = color
+        self.flavor = flavor
+    def hasil(self):
+        # Should return "My red apple gave a sweet flavor " 
+        return "My {} apple gave a {} flavor".format(self.color, self.flavor)
+Rasa = Apple("red","sweet")
+print(Rasa.hasil())
 ```
+My red apple gave a sweet flavor
+
+#### Help
+```  
+class Person:
+  def __init__(self, name):
+    self.name = name
+  def greeting(self):
+    """Outputs a message with the name of the person"""
+    print("Hello! My name is {name}.".format(name=self.name)) 
+
+help(Person.greeting)
+```
+Help on function greeting in module submission:
+
+greeting(self)
+    Outputs a message with the name of the person
+
+
+
+
 </details>
 
 
