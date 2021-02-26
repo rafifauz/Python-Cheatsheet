@@ -62,6 +62,7 @@ dict_keys("JPG","txt","csv")
 file_counts.values()
 ```
 dict_values(10,14,33)
+<details>
 
 ### OOP:
 
@@ -86,7 +87,16 @@ print(Flower().color)
 Roses are red,
 violets are blue,
 unknown
-  
+
+#### Constructor
+```  
+class Person:
+    def __init__(self, name):
+        self.name = ___
+    def greeting(self):
+        # Should return "hi, my name is " followed by the name of the Person.
+        return ___
+```
 
 
 
@@ -104,5 +114,3 @@ unknown
 
 
 
-
-<details>
