@@ -24,10 +24,10 @@ Source Coursera - Google IT Automation with Python
   </ol>
 </details>
 
-### Dictionary:
+
 <details>
-  <summary>file_counts= {"JPG":10,"txt":14,"csv":2}</summary>
-  
+  <summary>### Dictionary:</summary>
+file_counts= {"JPG":10,"txt":14,"csv":2}
 #### True or False
 ```
 "txt" in file_counts
