@@ -91,11 +91,12 @@ print("Roses are {},".format(rose.color))
 print("violets are {},".format(violet.color))
 print(Flower().color)
 ```
+Output:
+```
 Roses are red,
-
 violets are blue,
-
 unknown
+```
 
 #### Constructor
 ```  
@@ -109,8 +110,10 @@ class Apple:
 Rasa = Apple("red","sweet")
 print(Rasa.hasil())
 ```
+Output:
+```
 My red apple gave a sweet flavor
-
+```
 #### Help
 ```  
 class Person:
@@ -122,12 +125,13 @@ class Person:
 
 help(Person.greeting)
 ```
+Output:
+```
 Help on function greeting in module submission:
 
 greeting(self)
-
     Outputs a message with the name of the person
-
+```
 
 
 
