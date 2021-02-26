@@ -48,7 +48,9 @@ for ext, amount in file_counts.items():
 	print("There are {} files with .{} extention".format(amount, ext)) 
 ```
 There are 10 files with .JPG extention
+
 There are 14 files with .txt extention
+
 There are 33 files with .csv extention
 #### Keys
 ```
@@ -60,6 +62,46 @@ dict_keys("JPG","txt","csv")
 file_counts.values()
 ```
 dict_values(10,14,33)
+
+### OOP:
+
+<details>
+<summary>V</summary>
+  
+#### Class
+```
+class Flower:
+  color = 'unknown'
+
+rose = Flower()
+rose.color = "red"
+
+violet = Flower()
+violet.color = "blue"
+
+print("Roses are {},".format(rose.color))
+print("violets are {},".format(violet.color))
+print(Flower().color)
+```
+Roses are red,
+violets are blue,
+unknown
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
