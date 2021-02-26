@@ -18,16 +18,16 @@ Source Coursera - Google IT Automation with Python
     <a href="#OOP">Dictionary</a>
     <ul>
         <li><a href="#Class">Class</a></li>
-        <li><a href="#AConstructor">Constructor</a></li>
+        <li><a href="#Constructor">Constructor</a></li>
     </ul>
     </li>
   </ol>
 </details>
 
-
+### Dictionary:
 <details>
-  <summary>### Dictionary:</summary>
-file_counts= {"JPG":10,"txt":14,"csv":2}
+  <summary>file_counts= {"JPG":10,"txt":14,"csv":2}</summary>
+  
 #### True or False
 ```
 "txt" in file_counts
